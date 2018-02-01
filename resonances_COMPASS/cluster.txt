@@ -1,0 +1,66 @@
+#################################
+# Cluster
+Min chi2       289833.8
+Max chi2       289833.9
+# solutions    190
+a1(1260)
+   M            1299.0 +- 0.5
+   G             381.6 +- 1.5
+
+a1(1420)
+   M            1410.5 +- 0.6
+   G             160.6 +- 1.0
+
+a1(1930)
+   M            1699.9 +- 2.2
+   G             506.8 +- 4.2
+
+a2(1320)
+   M            1314.5 +- 0.1
+   G             106.6 +- 0.1
+
+a2(1700)
+   M            1681.3 +- 1.5
+   G             436.2 +- 1.6
+
+a4(2040)
+   M            1935.1 +- 0.4
+   G             333.2 +- 0.9
+
+pi(1800)
+   M            1804.3 +- 0.2
+   G             220.5 +- 0.4
+
+pi1(1600)
+   M            1603.7 +- 1.5
+   G             583.4 +- 4.6
+
+pi2(1670)
+   M            1642.0 +- 0.5
+   G             311.1 +- 1.0
+
+pi2(1880)
+   M            1846.6 +- 1.1
+   G             245.9 +- 2.3
+
+pi2(2005)
+   M            1962.2 +- 2.2
+   G             370.9 +- 3.6
+
+
+Parameter files of the solutions with the best chi2:
+Cluster 0: ../ParameterSet_00202/Cload_BigBg_BigWaves_SmallBgAndWaves/cluster/final/param_70_0000289833_0004.dat
+Cluster 1: ../ParameterSet_00118/Cload_BigBg_SmallBg_BigWaves_SmallWaves/cluster/final/param_70_0000289968_0005.dat
+Cluster 2: ../ParameterSet_00008/Cload_BigBg_SmallBg_BigWaves_SmallWaves/cluster/final/param_70_0000290275_0005.dat
+Cluster 3: ../ParameterSet_00242/Cload_BigBg_SmallBg_BigWaves_SmallWaves/cluster/final/param_70_0000291001_0005.dat
+Cluster 4: ../ParameterSet_00079/Cload_BigBg_SmallBg_BigWaves_SmallWaves/cluster/final/param_70_0000291116_0005.dat
+
+
+
+Parameter files of the solutions with the worst chi2:
+Cluster 0: ../ParameterSet_00092/Cload_Bg_Waves/cluster/final/param_70_0000289833_0003.dat
+Cluster 1: ../ParameterSet_00166/Cload_BigBg_BigWaves_SmallBgAndWaves/cluster/final/param_70_0000289968_0004.dat
+Cluster 2: ../ParameterSet_00243/Cload_BigBg_SmallBg_BigWaves_SmallWaves/cluster/final/param_70_0000290275_0005.dat
+Cluster 3: ../ParameterSet_00083/Cload_Bg_Waves/cluster/final/param_70_0000291001_0003.dat
+Cluster 4: ../ParameterSet_00178/Cload_BigBg_SmallBg_BigWaves_SmallWaves/cluster/final/param_70_0000291116_0005.dat
+
